@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Caiasaura
 - 👀 I’m interested in all things coding, especially web development. 
-- 🌱 I’m currently learning C# & web development through Mimo Dev. 
+- 🌱 I’m currently learning C#. 
 - 💞️ I’m looking to collaborate on: nothing for now!
-- 📫 How to reach me: Caiasaura#1987 on Discord.
+- 📫 How to reach me: Caiasaura on Discord.
 
 <!---
 Caiasaura/Caiasaura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
